@@ -38,7 +38,7 @@ class Pascom extends Pastorais {
     }
 
     atuacao(): void {
-    console.log(`a função atual é: ${this.funcao}`)
+        console.log(`a função atual é: ${this.funcao}`)
     }
 }
 
